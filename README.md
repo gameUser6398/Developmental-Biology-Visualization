@@ -19,8 +19,8 @@ This project aims to extract domain-specific entities and semantic relations fro
 
 ## 📸 Screenshots
 
-![image](./co_occurrence_network.png "词频共现分析图")
-![image](./wordcloud.png "词云图")
+![image](./Co-occurrenceNetwork.png "词频共现分析图")
+![image](./Wordcloud.png "词云图")
 > Add more results here (e.g., knowledge graph screenshots, community clusters, etc.)
 
 ---
